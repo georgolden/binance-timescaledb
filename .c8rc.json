@@ -1,0 +1,8 @@
+{
+  "check-coverage": true,
+  "lines": 70,
+  "all": true,
+  "include": "src/**/*.js",
+  "exclude": "src/**/.types.js",
+  "reporter": ["text-summary", "cobertura"]
+}
